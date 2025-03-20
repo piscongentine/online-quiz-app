@@ -22,13 +22,26 @@ let score = 0;
 let timer = 300;
 let interval;
 
-startBtn.addEventListener("click", function () {
-    if (nameInput.value.trim() === "") {
-        alert("Please enter your name!");
-        return;
-    }
-    nameSection.style.display = "none";
-    rulesSection.style.display = "block";
+startBtn.style.display = "none";
+    let loadingAnimation = document.getElementById("loadingAnimation");
+    loadingAnimation.classList.remove("hidden");
+
+    // Cmd-style loading effect
+    let symbols = ["/", "-", "\\", "|"];
+    let index = 0;
+
+    let cmdInterval = setInterval(() => {
+        document.getElementById("cmdLoader").textContent = symbols[index];
+        index = (index + 1) % symbols.length;
+    }, 200);
+
+    // Simulate loading and move to rules after 2 seconds
+    setTimeout(() => {
+        clearInterval(cmdInterval); // Stop animation
+        loadingAnimation.classList.add("hidden");
+        nameSection.style.display = "none";
+        rulesSection.style.display = "block";
+    }, 2000); // 2-second effect
 });
 
 proceedBtn.addEventListener("click", function () {
