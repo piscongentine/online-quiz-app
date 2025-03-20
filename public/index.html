@@ -9,12 +9,11 @@
 <body>
     <div class="container">
         <!-- Name Section -->
-        <div id="nameSection">
-            <h1>Welcome to the Stranger Trilogy Quiz</h1>
-            <p>Enter your name to begin:</p>
-            <label for="nameInput">Your Name:</label>
-            <input type="text" id="nameInput" placeholder="Enter your name" required>
+        <div id="nameSection" class="name-container">
+            <h2>Enter Your Name User</h2>
+            <input type="text" id="nameInput" placeholder="Your Name Dear?">
             <button id="startBtn">Start Quiz</button>
+            <div id="loadingAnimation" class="hidden">Loading <span id="cmdLoader">|</span></div>
         </div>
 
         <!-- Rules Section -->
@@ -29,6 +28,10 @@
                 <li> 📌 This Quiz is created by <b>Shwet</b>. Check  
     <a href="https://github.com/piscongentine/online-quiz-app" target="_blank"><b>Project</b></a>  
 </li>
+                <li> 📖 Read <i>Trilogy of Stranger</i> from  
+    <a href="https://drive.google.com/drive/folders/18HNINxR379fQqufqWFnvHDN71mA5rq_h?usp=sharing" target="_blank"><b>HERE</b></a>
+</li>
+
             </ul>
             <label for="agreeCheckbox">
                 <input type="checkbox" id="agreeCheckbox"> I agree to the rules
