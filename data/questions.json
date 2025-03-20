@@ -138,5 +138,110 @@
         "question": "What did Rivanah ultimately learn from her journey?",
         "options": ["Love is pain", "She can survive anything", "Trust is an illusion", "The past never leaves"],
         "correct": "She can survive anything"
+    },
+    {
+        "id": 21,
+        "line": "Desire and fear are often two sides of the same coin.",
+        "question": "Why did Rivanah feel a rush when the Stranger dominated her decisions?",
+        "options": ["She loved him", "She liked the thrill", "She wanted to escape", "She had no choice"],
+        "correct": "She liked the thrill"
+    },
+    {
+        "id": 22,
+        "line": "Some hands don’t hold you, they claim you.",
+        "question": "What was the most dangerous aspect of the Stranger’s touch?",
+        "options": ["It controlled her", "It reassured her", "It made her forget her past", "It felt like love"],
+        "correct": "It controlled her"
+    },
+    {
+        "id": 23,
+        "line": "Obsession is often mistaken for love.",
+        "question": "Why did Rivanah keep coming back to the Stranger despite knowing the risks?",
+        "options": ["She loved him", "She felt powerless", "She needed closure", "She was addicted to him"],
+        "correct": "She was addicted to him"
+    },
+    {
+        "id": 24,
+        "line": "A whisper in the dark can be more dangerous than a scream.",
+        "question": "What did the Stranger’s voice do to Rivanah?",
+        "options": ["Frightened her", "Hypnotized her", "Angered her", "Confused her"],
+        "correct": "Hypnotized her"
+    },
+    {
+        "id": 25,
+        "line": "Some touches burn more than fire.",
+        "question": "What did Rivanah realize about her moments with the Stranger?",
+        "options": ["They were never innocent", "She was never in control", "He knew her too well", "She wanted more"],
+        "correct": "They were never innocent"
+    },
+    {
+        "id": 26,
+        "line": "A stolen moment can define a lifetime.",
+        "question": "Which memory of the Stranger haunted Rivanah the most?",
+        "options": ["His voice", "His eyes", "His touch", "His control"],
+        "correct": "His touch"
+    },
+    {
+        "id": 27,
+        "line": "The best traps don’t have locks.",
+        "question": "Why couldn’t Rivanah leave the Stranger even when she had the chance?",
+        "options": ["He threatened her", "She needed him", "She was scared", "She was drawn to him"],
+        "correct": "She was drawn to him"
+    },
+    {
+        "id": 28,
+        "line": "Some addictions are not to substances, but to people.",
+        "question": "What was Rivanah’s most dangerous addiction?",
+        "options": ["The Stranger’s mystery", "His control over her", "His voice", "His ability to make her feel wanted"],
+        "correct": "His control over her"
+    },
+    {
+        "id": 29,
+        "line": "A chained heart beats louder than a free one.",
+        "question": "What made Rivanah realize she was never truly free?",
+        "options": ["Her constant thoughts of the Stranger", "Her need for love", "Her past traumas", "Her inability to say no"],
+        "correct": "Her constant thoughts of the Stranger"
+    },
+    {
+        "id": 30,
+        "line": "Some lovers don’t kiss you, they consume you.",
+        "question": "How did Rivanah feel every time she surrendered to the Stranger?",
+        "options": ["Free", "Trapped", "Alive", "Completely his"],
+        "correct": "Completely his"
+    },
+    {
+        "id": 31,
+        "line": "Some nights are not meant to be remembered, yet they never fade.",
+        "question": "Why did Rivanah let herself get physically close to Ekansh in Mumbai?",
+        "options": ["She needed comfort", "She wanted revenge", "She couldn’t resist him", "She was lonely"],
+        "correct": "She couldn’t resist him"
+    },
+    {
+        "id": 32,
+        "line": "The body often betrays what the mind wants to forget.",
+        "question": "What did Rivanah feel the moment Ekansh touched her?",
+        "options": ["A sense of guilt", "A rush of desire", "A need to stop", "Nothing at all"],
+        "correct": "A rush of desire"
+    },
+    {
+        "id": 33,
+        "line": "Some touches are meant to mark, not to love.",
+        "question": "What did Rivanah realize after she gave in to Ekansh that night?",
+        "options": ["She was still in love with him", "She had betrayed herself", "She wanted more", "It was just physical"],
+        "correct": "She had betrayed herself"
+    },
+    {
+        "id": 34,
+        "line": "Regret tastes bitter when mixed with passion.",
+        "question": "What was the first thing Rivanah thought the morning after being with Ekansh?",
+        "options": ["She made a mistake", "She wanted to run away", "She didn’t regret it", "She wanted to tell Danny"],
+        "correct": "She made a mistake"
+    },
+    {
+        "id": 35,
+        "line": "Not all betrayals happen in the mind—some happen between the sheets.",
+        "question": "What made Rivanah feel more conflicted after the night with Ekansh?",
+        "options": ["Her lingering feelings", "Her guilt towards Danny", "Her fear of the Stranger", "All of the above"],
+        "correct": "All of the above"
     }
 ]
