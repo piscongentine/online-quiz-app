@@ -12,6 +12,78 @@ body {
     align-items: center;
     flex-direction: column;
 }
+/* 🔹 Styling for Name Input Section */
+.name-container {
+    width: 50%;
+    max-width: 400px;
+    margin: auto;
+    background: linear-gradient(135deg, #2c2c2c, #4a4a4a); /* Grey gradient */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Smooth fade-in animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.name-container h2 {
+    font-size: 24px;
+    color: orange;
+    margin-bottom: 15px;
+}
+
+.name-container input {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid orange;
+    background: #1a1a1a;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 0 0 5px rgba(255, 165, 0, 0.3);
+}
+
+/* 🔹 Styling for Start Quiz Button */
+.name-container button {
+    background: linear-gradient(90deg, #ff8c00, #ff4500); /* Orange gradient */
+    color: white;
+    padding: 12px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out, background 0.3s;
+}
+
+/* Hover effect */
+.name-container button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(90deg, #ff4500, #ff8c00); /* Reverse gradient */
+}
+
+/* 🔹 Loading Animation */
+#loadingAnimation {
+    margin-top: 10px;
+    font-size: 16px;
+    color: limegreen;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Hide loading animation by default */
+.hidden {
+    display: none;
+}
 
 .container {
     width: 60%;
