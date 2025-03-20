@@ -112,13 +112,13 @@ function submitQuiz() {
     }
     quizContainer.style.display = "none";
     resultScreen.style.display = "block";
-    finalScore.innerHTML = `<p>Final Score: ${score} / 20</p>`;
+    finalScore.innerHTML = `<p>Final Score: ${score} / 40</p>`;
 }
 restartBtn.addEventListener("click", function () {
     // Reset all variables
     currentQuestionIndex = 0;
     score = 0;
-    timer = 120; // Reset timer to 2 minutes
+    timer = 300; // Reset timer to 2 minutes
 
     // Hide result screen and show the name input again
     resultScreen.style.display = "none";
