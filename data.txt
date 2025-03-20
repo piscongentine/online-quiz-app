@@ -1,0 +1,25 @@
+What is the capital of France?|Paris
+What is 2 + 2?|4
+Who wrote 'Hamlet'?|Shakespeare
+What is the largest planet in our solar system?|Jupiter
+What is the chemical symbol for water?|H2O
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is the square root of 64?|8
+What is the capital of Japan?|Tokyo
+Which element has the atomic number 1?|Hydrogen
+Who discovered gravity?|Isaac Newton
+What is the freezing point of water in Celsius?|0
+Who developed the theory of relativity?|Albert Einstein
+Which is the longest river in the world?|Nile
+What is the main gas found in Earth's atmosphere?|Nitrogen
+Which planet is known as the Red Planet?|Mars
+What is the smallest prime number?|2
+Which is the fastest land animal?|Cheetah
+Which country is known as the Land of the Rising Sun?|Japan
+What is the chemical formula of carbon dioxide?|CO2
+How many continents are there on Earth?|7
+Who invented the telephone?|Alexander Graham Bell
+Which is the highest mountain in the world?|Mount Everest
+Who is known as the father of computers?|Charles Babbage
+Which ocean is the largest?|Pacific Ocean
+What is the capital of India?|New Delhi

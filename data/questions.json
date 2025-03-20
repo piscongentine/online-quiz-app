@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "line": "Some scars are etched not on the skin but on the soul.",
+        "question": "What was Rivanah’s deepest fear in the Stranger’s game?",
+        "options": ["Being watched", "Losing Danny", "Being abandoned", "Losing her mind"],
+        "correct": "Being watched"
+    },
+    {
+        "id": 2,
+        "line": "Desires are the strongest chains that bind us.",
+        "question": "How did Rivanah first feel when the Stranger started controlling her life?",
+        "options": ["Excited", "Terrified", "Confused", "Angry"],
+        "correct": "Confused"
+    },
+    {
+        "id": 3,
+        "line": "The closer you get to the truth, the darker it gets.",
+        "question": "What was the biggest secret that the Stranger revealed to Rivanah?",
+        "options": ["Her past wasn’t real", "Danny was a liar", "Her father had secrets", "She had a hidden identity"],
+        "correct": "Her father had secrets"
+    },
+    {
+        "id": 4,
+        "line": "You don’t need a knife to cut someone, words are sharper.",
+        "question": "What did Hiya Chowdhury’s story teach Rivanah?",
+        "options": ["Love is dangerous", "Secrets never die", "Karma is real", "Trust no one"],
+        "correct": "Secrets never die"
+    },
+    {
+        "id": 5,
+        "line": "Love is not always a feeling; sometimes, it’s a prison.",
+        "question": "Why did Rivanah keep going back to Danny despite her suspicions?",
+        "options": ["She loved him too much", "She was trapped by her past", "She feared being alone", "The Stranger made her"],
+        "correct": "She feared being alone"
+    },
+    {
+        "id": 6,
+        "line": "Some touches heal, some destroy. Do you know the difference?",
+        "question": "What did the Stranger make Rivanah realize about her past relationships?",
+        "options": ["She was always in control", "She was used", "She never knew love", "They were all tests"],
+        "correct": "She was used"
+    },
+    {
+        "id": 7,
+        "line": "What burns brighter—lust or love?",
+        "question": "What made Rivanah’s encounters with the Stranger so intense?",
+        "options": ["Fear & excitement", "True love", "Her loneliness", "Manipulation"],
+        "correct": "Fear & excitement"
+    },
+    {
+        "id": 8,
+        "line": "Even the most obedient hearts crave rebellion.",
+        "question": "Why did Rivanah sometimes feel thrilled by the Stranger’s control?",
+        "options": ["She wanted to rebel", "She enjoyed submission", "She liked mystery", "She was scared"],
+        "correct": "She enjoyed submission"
+    },
+    {
+        "id": 9,
+        "line": "The body is easy to manipulate; the mind, not so much.",
+        "question": "How did the Stranger’s psychological tactics affect Rivanah?",
+        "options": ["She became stronger", "She lost herself", "She started resisting", "She fell in love"],
+        "correct": "She lost herself"
+    },
+    {
+        "id": 10,
+        "line": "Some people enter your life to break you before they rebuild you.",
+        "question": "How did Rivanah’s journey with the Stranger change her?",
+        "options": ["She became fearless", "She lost trust", "She became more reckless", "She learned self-worth"],
+        "correct": "She became fearless"
+    },
+    {
+        "id": 11,
+        "line": "Some pleasures are more dangerous than pain.",
+        "question": "What did Rivanah realize about her physical desires?",
+        "options": ["They made her weak", "She was controlled by them", "They were an escape", "She had none"],
+        "correct": "They were an escape"
+    },
+    {
+        "id": 12,
+        "line": "The taste of forbidden desires lingers the longest.",
+        "question": "What aspect of the Stranger’s presence was most intoxicating for Rivanah?",
+        "options": ["His words", "His mystery", "His voice", "His control"],
+        "correct": "His control"
+    },
+    {
+        "id": 13,
+        "line": "Not all monsters hide in the dark.",
+        "question": "Who did Rivanah suspect the Stranger to be?",
+        "options": ["Danny", "Ekansh", "Her father", "A ghost from her past"],
+        "correct": "Ekansh"
+    },
+    {
+        "id": 14,
+        "line": "Every obsession starts as an innocent curiosity.",
+        "question": "How did Rivanah’s obsession with the Stranger begin?",
+        "options": ["Through texts", "Through stalking", "Through a diary", "Through anonymous gifts"],
+        "correct": "Through texts"
+    },
+    {
+        "id": 15,
+        "line": "Even love can be the sharpest weapon.",
+        "question": "How did Rivanah’s love life complicate her game with the Stranger?",
+        "options": ["She couldn’t trust", "She was torn", "She used it as a cover", "She had no love"],
+        "correct": "She was torn"
+    },
+    {
+        "id": 16,
+        "line": "Nothing is more seductive than danger itself.",
+        "question": "Why did Rivanah sometimes crave the Stranger’s presence?",
+        "options": ["He was powerful", "She needed protection", "Danger turned her on", "He knew her deeply"],
+        "correct": "He knew her deeply"
+    },
+    {
+        "id": 17,
+        "line": "Some desires are never meant to be spoken, only acted upon.",
+        "question": "What part of Rivanah’s encounters with the Stranger was the most thrilling?",
+        "options": ["The secrecy", "The danger", "The intensity", "All of the above"],
+        "correct": "All of the above"
+    },
+    {
+        "id": 18,
+        "line": "The most beautiful things happen in the darkest corners.",
+        "question": "Where did Rivanah have some of her most intense experiences?",
+        "options": ["In her apartment", "In a hotel", "In a hidden location", "In her dreams"],
+        "correct": "In a hidden location"
+    },
+    {
+        "id": 19,
+        "line": "Fear and pleasure are two sides of the same coin.",
+        "question": "Why did Rivanah feel a rush when the Stranger controlled her life?",
+        "options": ["She was a thrill-seeker", "She liked the unknown", "She wanted to submit", "She loved him"],
+        "correct": "She liked the unknown"
+    },
+    {
+        "id": 20,
+        "line": "Sometimes, the only way to find yourself is to get completely lost.",
+        "question": "What did Rivanah ultimately learn from her journey?",
+        "options": ["Love is pain", "She can survive anything", "Trust is an illusion", "The past never leaves"],
+        "correct": "She can survive anything"
+    }
+]

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stranger Trilogy Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Name Section -->
+        <div id="nameSection">
+            <h1>Welcome to the Stranger Trilogy Quiz</h1>
+            <p>Enter your name to begin:</p>
+            <label for="nameInput">Your Name:</label>
+            <input type="text" id="nameInput" placeholder="Enter your name" required>
+            <button id="startBtn">Start Quiz</button>
+        </div>
+
+        <!-- Rules Section -->
+        <div id="rulesSection" class="hidden">
+            <h2>Quiz Rules</h2>
+            <ul>
+                <li>✔ The quiz contains <b>10 questions</b> randomly selected from a bank of 50.</li>
+                <li>✔ You have <b>2 minutes</b> to complete the quiz.</li>
+                <li>✔ Each correct answer earns <b>2 points</b> (Total: 20 points).</li>
+                <li>✔ You <b>cannot go back</b> to previous questions.</li>
+                <li>✔ The quiz will <b>auto-submit</b> when the timer ends.</li>
+            </ul>
+            <label for="agreeCheckbox">
+                <input type="checkbox" id="agreeCheckbox"> I agree to the rules
+            </label>
+            <button id="proceedBtn">Proceed</button>
+        </div>
+
+        <!-- Quiz Section -->
+        <div id="quizContainer" class="hidden">
+            <p id="questionLine"></p>  <!-- Add this line -->
+            <h2 id="questionText"></h2>
+            <div id="optionsContainer"></div>
+            <button id="prevBtn" class="hidden">Previous</button>
+            <button id="nextBtn">Next</button>
+            <button id="submitBtn" class="hidden">Submit</button>
+            <p id="timer">Time Left: 2:00</p>
+        </div>
+        
+
+        <!-- Result Section -->
+        <div id="resultScreen" class="hidden">
+            <h2>Quiz Completed!</h2>
+            <p id="finalScore"></p>
+            <button id="restartBtn">Restart</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
