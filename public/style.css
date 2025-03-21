@@ -1,14 +1,4 @@
-.hidden {
-    display: none;
-}
 
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background: linear-gradient(45deg, #ff6b6b, #ffb6b9);
-    height: 100vh;
-    display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
@@ -140,7 +130,3 @@ input[type="radio"] {
     display: none;
     animation: fadeIn 1s ease-in-out;
 }
-
-
-
-
