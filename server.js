@@ -14,7 +14,7 @@ let questions = JSON.parse(fs.readFileSync(questionsFilePath, "utf8"));
 
 // Shuffle and return 10 random questions
 function getRandomQuestions() {
-    return [...questions].sort(() => Math.random() - 0.5).slice(0, 10);
+    return [...questions].sort(() => Math.random() - 0.5).slice(0, 20);
 }
 
 // API to fetch random questions
