@@ -77,7 +77,7 @@ function loadQuestions() {
     fetch("data/questions.json")
         .then(response => response.json())
         .then(data => {
-            questions = shuffleArray(data).slice(0, 25);
+            questions = shuffleArray(data).slice(0, 20);
             displayQuestion();
         })
         .catch(error => console.error("Error loading questions:", error));
