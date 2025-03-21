@@ -21,8 +21,14 @@ let currentQuestionIndex = 0;
 let score = 0;
 let timer = 300;
 let interval;
+startBtn.addEventListener("click", function () {
+    if (nameInput.value.trim() === "") {
+        alert("Please enter your name dear!");
+        return;
+    }
 
-startBtn.style.display = "none";
+    // Hide button and show loading animation
+    startBtn.style.display = "none";
     let loadingAnimation = document.getElementById("loadingAnimation");
     loadingAnimation.classList.remove("hidden");
 
@@ -43,7 +49,6 @@ startBtn.style.display = "none";
         rulesSection.style.display = "block";
     }, 2000); // 2-second effect
 });
-
 proceedBtn.addEventListener("click", function () {
     if (!agreeCheckbox.checked) {
         alert("You must agree to the rules!");
